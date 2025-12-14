@@ -1,13 +1,13 @@
 <div align="center">
 
-# 👋 嗨，我是代伟平 (Jiuhe29)
+# 嗨，我是代伟平 (Jiuhe29)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=全栈开发工程师+%7C+Web+Developer;热衷于将创意转化为代码;构建优雅的现代化+Web+应用" alt="Typing SVG" />
 
 <p align="center">
-  <a href="https://jiuhe29.cn"><img src="https://img.shields.io/badge/🌐_个人网站-jiuhe29.cn-blueviolet?style=for-the-badge"></a>
-  <a href="mailto:jiuhe29@163.com"><img src="https://img.shields.io/badge/📧_Email-jiuhe29@163.com-red?style=for-the-badge"></a>
-  <a href="https://twitter.com/awa1129"><img src="https://img.shields.io/badge/🐦_Twitter-@awa1129-1DA1F2?style=for-the-badge"></a>
+  <a href="https://jiuhe29.cn"><img src="https://img.shields.io/badge/个人网站-jiuhe29.cn-blueviolet?style=for-the-badge"></a>
+  <a href="mailto:jiuhe29@163.com"><img src="https://img.shields.io/badge/Email-jiuhe29@163.com-red?style=for-the-badge"></a>
+  <a href="https://twitter.com/awa1129"><img src="https://img.shields.io/badge/Twitter-@awa1129-1DA1F2?style=for-the-badge"></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Jiuhe29&label=访客数&color=blueviolet&style=for-the-badge" alt="Profile Views" />
@@ -18,7 +18,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 🚀 关于我
+### 关于我
 
 ```typescript
 const jiuhe29 = {
@@ -39,14 +39,14 @@ const jiuhe29 = {
         tools: ["Git", "VS Code", "Visual Studio", "Postman"]
     },
     currentFocus: "探索 React 生态与微前端架构",
-    funFact: "代码是诗歌，bug 是押韵 🎵"
+    funFact: "代码是诗歌，bug 是押韵"
 };
 ```
 
-### 💼 技术栈与工具
+### 技术栈与工具
 
 <details open>
-<summary><b>🎨 前端开发</b></summary>
+<summary><b>前端开发</b></summary>
 <br>
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
@@ -62,7 +62,7 @@ const jiuhe29 = {
 </details>
 
 <details open>
-<summary><b>⚙️ 后端开发</b></summary>
+<summary><b>后端开发</b></summary>
 <br>
 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -75,7 +75,7 @@ const jiuhe29 = {
 </details>
 
 <details open>
-<summary><b>🗄️ 数据库与存储</b></summary>
+<summary><b>数据库与存储</b></summary>
 <br>
 
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
@@ -87,7 +87,7 @@ const jiuhe29 = {
 </details>
 
 <details open>
-<summary><b>🛠️ 开发工具</b></summary>
+<summary><b>开发工具</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -102,47 +102,40 @@ const jiuhe29 = {
 
 ---
 
-### 📊 GitHub 数据统计
+### GitHub 数据统计
 
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jiuhe29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=A177F7&icon_color=F8D866&text_color=FFFFFF" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Jiuhe29&theme=tokyonight&hide_border=true&background=1F222E&stroke=A177F7&ring=A177F7&fire=F8D866&currStreakLabel=F8D866" />
-
-</div>
-
-<div align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiuhe29&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=A177F7&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jiuhe29&theme=tokyo-night&hide_border=true&bg_color=1F222E&color=A177F7&line=F8D866&point=FFFFFF" />
-</div>
-
----
-
-### 🏆 GitHub 成就
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jiuhe29&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
----
-
-### 📈 贡献图表
-
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Jiuhe29&theme=react-dark&hide_border=true&area=true)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jiuhe29&theme=tokyo-night&hide_border=true&bg_color=1F222E&color=A177F7&line=F8D866&point=FFFFFF" />
 
 </div>
 
 ---
 
-### 💬 联系方式
+### GitHub 成就
 
 <div align="center">
 
-**💌 欢迎交流技术、讨论项目或者只是打个招呼！**
+<a href="https://github.com/Jiuhe29?tab=achievements">
+  <img src="https://img.shields.io/badge/查看我的_GitHub_成就-点击访问-blueviolet?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+###  联系方式
+
+<div align="center">
+
+**欢迎交流技术、讨论项目或者只是打个招呼！**
 
 <p>
 <a href="https://jiuhe29.cn"><img src="https://img.shields.io/badge/-个人网站-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
@@ -150,7 +143,7 @@ const jiuhe29 = {
 <a href="https://twitter.com/awa1129"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-**💬 WeChat:** `jiuhe29` | **🐧 QQ:** `2311481035`
+**WeChat:** `jiuhe29` | **QQ:** `2311481035`
 
 ---
 
