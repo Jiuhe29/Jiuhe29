@@ -1,8 +1,9 @@
 <div align="center">
 
-# 嗨，我是代伟平 (Jiuhe29)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=全栈开发工程师+%7C+Web+Developer;热衷于将创意转化为代码;构建优雅的现代化+Web+应用" alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=560lines=console.log(%22Hello%2C+I'm+Jiuhe29%22);Web+Developer+by+Day+%7C+Debugger+by+Night"
+  alt="Typing SVG"
+/>
 
 <p align="center">
   <a href="https://jiuhe29.cn"><img src="https://img.shields.io/badge/个人网站-jiuhe29.cn-58A6FF?style=for-the-badge"></a>
@@ -10,13 +11,9 @@
   <a href="https://twitter.com/awa1129"><img src="https://img.shields.io/badge/Twitter-@awa1129-58A6FF?style=for-the-badge"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Jiuhe29&label=访客数&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-
 </div>
 
 ---
-
-### 技术栈与工具
 
 <details open>
 <summary><b>前端开发</b></summary>
@@ -75,8 +72,6 @@
 
 ---
 
-### GitHub 数据统计
-
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jiuhe29&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
@@ -91,8 +86,6 @@
 </div>
 
 ---
-
-###  联系方式
 
 <div align="center">
 
