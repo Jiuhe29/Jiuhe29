@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=console.log(%22Hello%2C+I'm+Jiuhe29%22);Web+Developer"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=300&lines=Hi%2C+I'm+Jiuhe29;Web+Developer"
   alt="Typing SVG"
 />
 
