@@ -107,7 +107,7 @@ const jiuhe29 = {
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jiuhe29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=A177F7&icon_color=F8D866&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiuhe29&theme=tokyonight&hide_border=true&background=1F222E&stroke=A177F7&ring=A177F7&fire=F8D866&currStreakLabel=F8D866" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Jiuhe29&theme=tokyonight&hide_border=true&background=1F222E&stroke=A177F7&ring=A177F7&fire=F8D866&currStreakLabel=F8D866" />
 
 </div>
 
@@ -122,7 +122,7 @@ const jiuhe29 = {
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Jiuhe29&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jiuhe29&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
