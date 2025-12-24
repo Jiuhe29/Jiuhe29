@@ -56,21 +56,6 @@
 ---
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jiuhe29&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiuhe29&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jiuhe29&theme=github-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58A6FF&point=58A6FF" />
-
-</div>
-
----
-
-<div align="center">
 
 **欢迎交流技术、讨论项目或者只是打个招呼！**
 
