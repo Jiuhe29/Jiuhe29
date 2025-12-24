@@ -1,20 +1,3 @@
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=300&lines=Hi%2C+I'm+Jiuhe29;Web+Developer"
-  alt="Typing SVG"
-/>
-
-<p align="center">
-  <a href="https://jiuhe29.cn"><img src="https://img.shields.io/badge/个人网站-jiuhe29.cn-58A6FF?style=for-the-badge"></a>
-  <a href="mailto:jiuhe29@163.com"><img src="https://img.shields.io/badge/Email-jiuhe29@163.com-58A6FF?style=for-the-badge"></a>
-  <a href="https://twitter.com/awa1129"><img src="https://img.shields.io/badge/Twitter-@awa1129-58A6FF?style=for-the-badge"></a>
-</p>
-
-</div>
-
----
-
 <details open>
 <summary><b>前端开发</b></summary>
 <br>
